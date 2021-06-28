@@ -1,0 +1,8 @@
+prefix=/home/xiaochen/workspace/catkin_ws/devel
+
+Name: ndt_registration
+Description: Description of ndt_registration
+Version: 1.0.30
+Cflags: -I/home/xiaochen/workspace/catkin_ws/src/ndt_registration/include
+Libs: -L${prefix}/lib -lndt_registration
+Requires: ndt_map tf tf_conversions pcl_ros

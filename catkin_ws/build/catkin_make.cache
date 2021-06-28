@@ -1,0 +1,2 @@
+beginner_tutorials:my_package:ndt_map:ndt_registration
+-DCATKIN_DEVEL_PREFIX=/home/xiaochen/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xiaochen/workspace/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/xiaochen/workspace/catkin_ws/devel
+
+Name: my_packge
+Description: Description of my_packge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
